@@ -1,0 +1,16 @@
+.tournamentDataArea {
+    height: 200px;
+    width: 600px;
+}
+
+.queryDataArea {
+    height: 20px;
+    width: 600px;
+}
+
+.queryBackground {
+    background-color: white;
+    color: black;
+    height: 80px;
+    width: 600px;
+}
